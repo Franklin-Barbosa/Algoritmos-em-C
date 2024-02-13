@@ -14,11 +14,13 @@ interior de um livro ou de uma publicação.
 A tarefa é Implementar uma estrutura de dados dinâmica (sem limite de tamanho) capaz de armazenar um índice remissivo e que permita realização das operações definidas a seguir. Você deve implementar o índice usando arranjo ou lista ligada.
 
 ## Executando
-Compile e execute o programa. Para compilar:
+Compile e execute o programa utilizando o `gcc`. 
+
+Para compilar:
 ```
-gcc -Wall -o NOME-DO-EXECUTAVEL NOME-DO-ARQUIVO.c
+gcc -Wall -o NOME-DO-EXECUTAVEL-A-SER-GERADO NOME-DO-ARQUIVO.c
 ```
 Para executar:
 ```
-.\NOME-DO-EXECUTAVEL
+.\NOME-DO-EXECUTAVEL-GERADO
 ```
