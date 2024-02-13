@@ -1,4 +1,4 @@
-# Algoritmos_C
+# Algoritmos em C
 Repositório criado da disciplina de Algoritmos, utilizando a linguagem C, para guardar as atividades e trabalhos feitos durante o semeste de 2023.2
 
 ## Atividades:
